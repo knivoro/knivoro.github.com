@@ -1,0 +1,42 @@
+SHOP
+
+USER 1
+
+Violet, 27 is an environmentally conscious lover of bath products. She is always looking for the next great thing to use that is both a great product and environmentally friendly, while also budget friendly. She likes to be able to try different products and is a stickler to getting her order shipped to her in a timely fashion. She was researching different online bath and body sites and came across this site when she saw a promotion on facebook advertising that all the products are handmade and chemical free.
+
+The site should have a page which talks about the production line – whether the products are tested on animals, contain any chemicals, etc. It should offer samples for a first time customer to be able to try a couple products when placing their order. The shipping policy should be outlined on the site, specifically detailing the time it takes for a customer to receive their order. Promotions and new products would keep the user coming back. The ability to sign up for a newsletter to get updates and news would help remind the customer to come back and shop again at this site.
+
+USER 2
+
+Frank, 34 wants to surprise his wife of 3 years with a romantic weekend in the mountains. He has already booked the room, which has a hot tub they can share. He thought it would be a nice touch to bring a gift basket filled with bath and body products they could use together. A coworker recommended he check out this particular site that sells a variety of gift baskets. 
+
+There should be an option to select gift baskets from a drop down menu in the main navigation or maybe they are featured on the homepage so the user can easily find them. Reasonable prices for the products is a must, especially if the user is coming to the site for the first time and could have picked any other site instead. Promotions or bundles would make the sale more appealing. The ability to sign up to receive news, updates, discount codes in an email would be helpful for the user to keep coming back to buy more. A description of the products, ingredients, and uses would be helpful for a first time buyer, specifically one that is buying a gift basket. 
+
+PORTFOLIO
+
+USER 1
+
+Margaret, 48 is a Creative Director who is considering a candidate for a Design position. She wants to find out more information about the candidate such as her background, style, and see her portfolio, while also measuring her design skills in the way her website looks. She has googled the name of the candidate and found the site.
+
+The site should be presented in an easy to navigate manner with items clearly organized and labeled, while embodying good design practices. The main things a potential employer may be looking for are the portfolio and resume. The portfolio should be presented in a thought out way, with a large enough image to see each of the projects clearly, but not so big that it needs to be downloaded as a link or scrolling. The work should have accompanying descriptions. The resume should be both visible on one page as well as have a link to be able to be downloaded as a pdf, in case the employer wants to print out a hard copy for herself. 
+
+USER 2
+
+Keith, 31 is a senior designer who is looking to hire a freelance graphic designer to help out on a few upcoming large projects. He is specifically looking for someone who has experience in web design and is not currently at a full time job, since the project would require the person to be working on site, at the office for several weeks. He is hoping to find someone who doesn’t have too much experience, as the budget for this freelance position is not very high. He goes on behance to search for some creative talent and finds this person through their tags on their page, which say they are looking for freelance work and have web design in their portfolio. The information on her behance page has a link to their portfolio site. 
+
+The most important items on the site are the resume, contact information, and portfolio. They should be displayed clearly. Since Keith is looking for a web background, there should be a clear demarcation in the portfolio of web projects so he doesn’t have to look through the whole portfolio to find what he’s looking for. The resume should state whether the person is currently working so that he can know whether this person is available to work within the parameters provided. A phone number and email are essential to be displayed on the resume and on contact page so if this person is right, Keith can reach her right away. 
+
+
+RESTAURANT
+
+USER 1
+
+Kaitlyn, 25 is planning a girls night out with some of her old college friends who are in town for the weekend. She wants to find a budget friendly restaurant that has a variety of options for every one of her friends, who include vegetarians and seafood lovers. They are all also on a budget, so something within a reasonable price range is key. She wants to make sure that there is a variety of alcoholic beverages from wine to cocktails so everyone can get what they want. Since the group is large, she is concerned that the restaurant can seat the party of 7, so she prefers to make reservations. Kaitlyn thinks going out in Cambridge would be fun since there are other bars around where they could go after dinner.
+
+Kaitlyn uses open table to find the restaurant near Central in Cambridge, which has availability for 8pm to seat 7 people. She uses the link on open table for the specific place that seems to be in the right budget and has good reviews from the users on open table. Upon going to the restaurant site, the dinner and drinks menu as well as the prices are Kaitlyn’s main concern, so having a button in the main nav linking to the drink and dinner menu is important. The menu should load fast and be easy to read. A pdf could be useful so she could download the file and forward it to her friends. Both the food and drinks menu should include prices, since the group is on a budget. Hours of operation, directions, and parking are important as well.
+
+USER 2
+
+Alex, 29 is getting ready for his first date with a girl he finally got the courage to ask out and she said yes! He wants to take her to a romantic place that has a variety of menu and drink options, since he’s not sure what her preferences are. He wants to impress her by picking a place that has good food, good drinks, and a great atmosphere, where they can get to know each other better. He wants the place will be dimly lit but not too dark, to set a romantic mood. He’s hoping there is some music playing in the background, so if all goes well, they can continue the night out on the town with drinks and maybe dancing. He’s on a budget but doesn’t want his date to think he’s cheap, so he’s hoping for moderate prices. 
+
+He googles romantic restaurants near the area where they both live, in Cambridge. He finds this place and wants to check out the menu, drinks, and prices. He is also looking for a photo gallery of the interior of the restaurant, to make sure the atmosphere will be right. He’s never been here and will be meeting his date here, so directions to the restaurant are important for him to get there on time and to tell his date the easiest way to get there. Since it’s his first time here, he wants to read reviews or testimonials about the place so he can impress his date. They will be having a late dinner so he wants to make sure the restaurant will be open long enough for the date to not get cut off short. He definitely wants to make reservations so they don’t have to wait for a table, so a way to either make reservations online or a number that he can call is important.
