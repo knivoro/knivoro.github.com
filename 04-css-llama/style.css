@@ -103,3 +103,6 @@ header#site-header h1 a { display:block; width:200px; height:200px; background:u
 	font-size:10px;
 	color:black;
 	}
+#main-content img{
+	max-width:100px;
+	}
