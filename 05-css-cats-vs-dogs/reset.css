@@ -123,9 +123,11 @@ html[xmlns] .clearfix { display: block; }
 	clear:both;
 	}
 #footer-main ul{
-	float:left;
+	margin-left:30px;
 	}
-	
+#footer-main li{
+	float:left;
+	}	
 	
 	
 	
