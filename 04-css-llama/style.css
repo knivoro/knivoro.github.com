@@ -78,4 +78,14 @@ html[xmlns] .clearfix { display: block; }
 header#site-header h1 { position:absolute; left:10px; top:10px; }
 header#site-header h1 a { display:block; width:200px; height:200px; background:url(images/logo.png) top center no-repeat; text-indent:-9999px; }
 
-
+#main-content {position:absolute;}
+#llama1 {
+	position:relative;
+	float:left;
+	margin:30,0,0,30;
+	}
+#llama2 {
+	position:relative;
+	float:left;
+	margin:130,0,0,130;
+	}
