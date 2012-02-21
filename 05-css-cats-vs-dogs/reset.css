@@ -101,11 +101,13 @@ html[xmlns] .clearfix { display: block; }
 	margin: 10px 10px 10px 10px;
 	}
 #content h1 {
+	clear:both;
 	font-family:times new roman;
 	color:black;
 	font-size:18px;
 	}
 #content p {
+	clear:both;
 	font-family:times new roman;
 	color:black;
 	font-size:12px;
@@ -113,6 +115,9 @@ html[xmlns] .clearfix { display: block; }
 #footer-main {
 	clear:both;
 	}
+#footer-main li{
+	clear:both;
+	}	
 	
 	
 	
