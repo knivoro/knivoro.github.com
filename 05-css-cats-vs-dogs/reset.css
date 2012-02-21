@@ -71,10 +71,19 @@ table {
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
+#container {position:relative;}
 #header-main {position:relative;}
 #header-main img {
 	position:relative;
 	margin:auto;
-	width:25%;
+	width:100px;
 	background-color:#ffffff;
 	}
+#top-menu {position:relative;}
+#top-menu li {
+	float:left;
+	margin: 50px, 10px, 0px, 50px;
+	}
+
+	
+	
