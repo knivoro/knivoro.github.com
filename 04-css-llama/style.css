@@ -82,6 +82,8 @@ header#site-header h1 a { display:block; width:200px; height:200px; background:u
 #main-content article {
 	float:left;
 	margin-top:30px;
+	width:100px;
+	height:100px;
 	}
 #main-content h1 {
 	font-family:arial; 
