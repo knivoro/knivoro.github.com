@@ -83,6 +83,7 @@ header#site-header h1 a { display:block; width:200px; height:200px; background:u
 	position:relative;
 	float:left;
 	margin:30,0,0,30;
+	background-color:green;
 	}
 #llama2 {
 	position:relative;
