@@ -76,17 +76,15 @@ html[xmlns] .clearfix { display: block; }
 	position:relative;
 	text-align:center;
 	}
-#header-main img {
-	position:relative;
-	width:100px;
-	background-color:#ffffff;
-	}
 #top-menu {position:relative;}
 #top-menu ul {
-	float:left;
+	list-style:none;
 	margin: 50px, 10px, 0px, 50px;
 	font-family:times new roman;
 	}
+#top-menu li {
+	display:inline-block;
+	}	
 #content {position:relative;}
 #content article {
 	float:left;
