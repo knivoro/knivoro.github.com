@@ -79,13 +79,15 @@ html[xmlns] .clearfix { display: block; }
 #header-main img {
 	margin-top: 50px;
 	}
-#top-menu {position:relative;}
-#top-menu ul {
+#top-menu {
+	position:relative;
 	clear:both;
+	}
+#top-menu ul {
+	margin-left:100px;
 	font-size:20px;
 	font-family:times new roman;
 	color:black;
-	text-align:center
 	}
 #top-menu li {
 	float:left;
