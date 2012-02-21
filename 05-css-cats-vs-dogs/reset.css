@@ -78,6 +78,7 @@ html[xmlns] .clearfix { display: block; }
 	}
 #header-main img {
 	margin-top: 70px;
+	margin-left: 70px;
 	}
 #top-menu {
 	position:relative;
@@ -100,8 +101,8 @@ html[xmlns] .clearfix { display: block; }
 	}
 #content article {
 	float:left;
-	width:500px;
-	margin: 50px 10px 0px 50px;
+	width:400px;
+	margin: 50px 10px 0px 30px;
 	}
 #content img {
 	float:left;
