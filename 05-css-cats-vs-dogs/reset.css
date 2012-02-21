@@ -114,7 +114,7 @@ html[xmlns] .clearfix { display: block; }
 	font-family:times new roman;
 	color:black;
 	font-size:18px;
-	font-style:bold;
+	font-weight:bold;
 	}
 #content p {
 	clear:both;
