@@ -115,13 +115,14 @@ html[xmlns] .clearfix { display: block; }
 	color:black;
 	font-size:18px;
 	font-weight:bold;
+	margin: 10px 10px 10px 10px;
 	}
 #content p {
 	clear:both;
 	font-family:times new roman;
 	color:black;
-	font-size:12px;
-	margin-top:10px;
+	font-size:14px;
+	margin: 10px 10px 10px 10px;
 	}
 #footer-main {
 	clear:both;
