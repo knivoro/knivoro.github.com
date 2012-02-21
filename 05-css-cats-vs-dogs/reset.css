@@ -81,9 +81,8 @@ html[xmlns] .clearfix { display: block; }
 	}
 #top-menu {position:relative;}
 #top-menu ul {
-	list-style:none;
+	text-align:center;
 	font-family:times new roman;
-	clear: both;
 	}
 #top-menu li {
 	float:left;
