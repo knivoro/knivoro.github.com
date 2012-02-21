@@ -122,8 +122,13 @@ html[xmlns] .clearfix { display: block; }
 #footer-main {
 	clear:both;
 	}
-#footer-main li{
-	clear:both;
+#footer-left {
+	position:relative;
+	margin-left:0px;
+	}	
+#footer-right {
+	position:relative;
+	margin-right:0px;
 	}	
 	
 	
