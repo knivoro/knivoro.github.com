@@ -93,7 +93,10 @@ html[xmlns] .clearfix { display: block; }
 	float:left;
 	margin: 50px 30px 0px 30px;
 	}	
-#content {position:relative;}
+#content {
+	position:relative;
+	clear:both;
+	}
 #content article {
 	float:left;
 	width:500px;
