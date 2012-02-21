@@ -77,16 +77,17 @@ html[xmlns] .clearfix { display: block; }
 	margin-left:30px;
 	}
 #header-main img {
-	margin-top: 30px;
+	margin-top: 70px;
 	}
 #top-menu {
 	position:relative;
 	margin-top:30px;
 	}
 #top-menu ul {
-	margin-left:50px;
+	margin-left:30px;
 	font-size:20px;
 	font-family:times new roman;
+	font-style:bold;
 	color:black;
 	}
 #top-menu li {
@@ -112,12 +113,14 @@ html[xmlns] .clearfix { display: block; }
 	font-family:times new roman;
 	color:black;
 	font-size:18px;
+	font-style:bold;
 	}
 #content p {
 	clear:both;
 	font-family:times new roman;
 	color:black;
 	font-size:12px;
+	margin-top:10px;
 	}
 #footer-main {
 	clear:both;
