@@ -72,10 +72,12 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 #container {position:relative;}
-#header-main {position:relative;}
+#header-main {
+	position:relative;
+	text-align:center;
+	}
 #header-main img {
 	position:relative;
-	margin:auto;
 	width:100px;
 	background-color:#ffffff;
 	}
