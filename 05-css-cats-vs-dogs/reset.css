@@ -80,10 +80,20 @@ html[xmlns] .clearfix { display: block; }
 	background-color:#ffffff;
 	}
 #top-menu {position:relative;}
-#top-menu li {
+#top-menu ul {
 	float:left;
 	margin: 50px, 10px, 0px, 50px;
+	font-family:times new roman;
 	}
-
+#content {position:relative;}
+#content article {
+	float:left;
+	width:300px
+	margin: 100px, 30px, 0px, 50px;
+	}
+	
+	
+	
+	
 	
 	
