@@ -1,0 +1,167 @@
+/* Meyer Reset */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* Center Content */
+
+.centered { 
+  margin:0 auto;
+  width:960px;
+}
+
+
+/* Clearfix */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+ 
+.clearfix { display: inline-block; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
+#container {
+	margin:0 auto; width:960px;}
+}
+#header-main {
+	position:relative;
+	margin-left:30px;
+	}
+#header-main img {
+	position:relative;
+	margin-top: 30px;
+	margin-left:25%;
+	}
+#top-menu {
+	position:relative;
+	margin-top:20px;
+	margin-left:20%
+	}
+#top-menu li {
+	float:left;
+	margin: 10px 15px 10px 10px;
+	}	
+#bullet {
+	list-style:disc
+	}
+#top-menu li a {
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:20px;
+	font-family:georgia;
+	font-weight:bold;
+	color:black;
+	}
+#content {
+	clear:both;
+	position:relative;
+	border-top:3px solid;
+	border-bottom:3px solid;
+	width:900px;
+	height:425px;
+	}
+#content article {
+	float:left;
+	width:400px;
+	margin: 10px 10px 0px 30px;
+	}
+#content img {
+	float:left;
+	width:400px;
+	margin: 10px 10px 10px 10px;
+	}
+#content h1 {
+	clear:both;
+	font-family:georgia;
+	color:black;
+	font-size:18px;
+	font-weight:bold;
+	margin: 10px 10px 10px 10px;
+	}
+#content p {
+	clear:both;
+	font-family:georgia;
+	color:black;
+	line-height:18px;
+	font-size:14px;
+	margin: 10px 10px 10px 10px;
+	}
+#footer-main {
+	clear:both;
+	font-family:georgia;
+	font-size:10px;
+	width:900px;
+	}
+#footer-main li {
+	margin-top:10px;
+	margin-bottom:10px;
+	float:left;
+	}
+#footer-main li em {
+	color:red;
+	}
+#footer-left {
+	margin-right:575px;
+	}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
