@@ -89,13 +89,15 @@ html[xmlns] .clearfix { display: block; }
 	padding-left:20%;
 	border-top: 3px solid;
 	border-bottom:3px solid;
+	width:900px;
+	height:30px;
 	}
 #top-menu li {
 	float:left;
 	margin: 10px 15px 10px 10px;
 	}	
 #bullet {
-	list-style:disc
+	list-style:disc;
 	}
 #top-menu li a {
 	text-decoration:none;
