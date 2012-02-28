@@ -114,6 +114,7 @@ body {
 	#content {
 		width: 800px;
 		margin: auto;
+		display:block;
 	}	
 		#page {
 			clear:both;
@@ -176,6 +177,7 @@ body {
 		#site-footer{
 			width:800px;
 			margin:auto;
+			display:block;
 		}
 #footer-contact {
 	float:left;
