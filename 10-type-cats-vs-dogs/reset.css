@@ -96,14 +96,13 @@ html[xmlns] .clearfix { display: block; }
 	text-align:center;
 	font-family:'LeagueGothicRegular';
 	font-weight:bold;
-	font-size:5em;
+	font-size:7em;
 	}
-#logo em{
+#break{
 	font-family:georgia;
 	font-weight:bold;
 	font-style:italic;
 	color: #bdc0c4;
-	
 	}
 #top-menu {
 	position:relative;
