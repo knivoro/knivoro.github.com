@@ -87,7 +87,19 @@ body{
 	background-repeat:repeat-x;
 }
 
-#logo-img a {
+#header-content {
+	position:relative;
+	margin:auto;
+	width:800px;
+	height:193px;
+}
+
+#header-left {
+	float:left;
+	width:200px;
+}
+
+#header-content h1 a {
  	display:block;  
  	width:111px; 
  	height:124px;  
@@ -97,8 +109,37 @@ body{
 
 #logo-text {
 	font-family:'TeXGyreAdventorBold';
+	color:#006464;
 }
 
 #logo-text em {
 	font-family:'TeXGyreAdventorRegular';
+	color:#006464;
+}
+
+#social-media a {
+	position:absolute
+	float:right;
+}
+
+#header-right {
+	
+	width:350px;
+}
+
+
+
+
+#main-nav li a {
+	float:right;
+	margin:10px;
+}
+
+#main-nav a{
+	text-decoration:none;
+	color:#5f6971;
+}
+
+#about {
+	clear:both;
 }
