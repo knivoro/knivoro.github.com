@@ -101,6 +101,7 @@ body{
 
 #header-content h1 a {
  	display:block;  
+ 	float:left;
  	width:111px; 
  	height:124px;  
  	background:url('../images/logo.png') no-repeat top left; 
