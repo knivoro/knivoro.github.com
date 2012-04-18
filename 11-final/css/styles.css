@@ -89,26 +89,26 @@ body{
 }
 
 #header-content {
-	position:relative;
 	margin:auto;
 	width:800px;
+	background-color:red;
 }
 
 #header-left {
-	float:left;
-	width:200px;
+	position:absolute;
+	margin-top:20px;
+	width:400px;
 }
 
-#header-block h1 a {
+#header-left h1 a {
  	display:block;  
- 	float:left;
  	width:111px; 
  	height:124px;  
  	background:url('../images/logo.png') no-repeat top left; 
  	text-indent:-9999px;
  	}
 
-#logo-text {
+#logo-text h1 {
 	font-family:'TeXGyreAdventorBold';
 	color:#006464;
 }
@@ -118,28 +118,33 @@ body{
 	color:#006464;
 }
 
-#social-media a {
-	position:absolute
-	float:right;
-}
-
-#header-right {
-	
-	width:350px;
+#social-media {
+	position:absolute;
+	margin-top:20px;
+	margin-right:20px;
+	width:400px;
 }
 
 
 
+#social-media li {
+	float:left;
+}
 
-#main-nav li a {
-	float:right;
-	margin:10px;
+#main-nav li {
+	float:left;
+	margin-right:20px;
 }
 
 #main-nav a{
 	text-decoration:none;
+	font-family:'TeXGyreAdventorRegular';
 	color:#5f6971;
 }
+
+
+
+
 
 #about {
 	clear:both;
