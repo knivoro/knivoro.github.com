@@ -72,7 +72,7 @@ table {
 
 }
 
-/* SITE STYLE */
+/* HEADER */
 
 body{
 	background-image:url('../images/background_tile.png');
@@ -115,11 +115,13 @@ body{
 #name p {
 	font-family:'TeXGyreAdventorBold';
 	color:#006464;	
+	font-size:22px;
 }	
 
 #name em {
 	font-family:'TeXGyreAdventorRegular';
 	color:#006464;
+	font-size:22px;
 }
 
 #social-media {
@@ -151,12 +153,146 @@ body{
 	text-decoration:none;
 	font-family:'TeXGyreAdventorRegular';
 	color:#5f6971;
+	font-size:18px;
 }
 
-
-
-
+/* ABOUT */
 
 #about {
 	clear:both;
+	margin:auto;
+	width:800px;
+	position:relative;
+}
+
+.section-heading {
+	font-family:'TeXGyreAdventorBold';		
+	color:#006464;
+	font-size:36px;
+}
+
+#photo{
+	float:left;
+	position:relative;
+	left:-20px;
+}
+
+#about-text {
+	float:right;
+	width:435px;
+	height:325px;
+	position:absolute;
+	right:0;
+	top:46px;
+}
+
+#dynamic {
+	font-family:'TeXGyreAdventorBold';		
+	color:#008789;
+	text-transform:uppercase;
+	font-size:43px;
+	margin-right:5px;
+}
+
+#ambitious {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#68c3b7;
+	font-size:48.35px;
+}
+
+#creative {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#006464;
+	text-transform:uppercase;
+	font-size:96px;
+	line-height:.75em;
+}
+
+#curious {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#68c3b7;
+	font-size:42.75px;
+	margin-right:5px;
+}
+
+#innovative {
+	font-family:'TeXGyreAdventorBold';		
+	color:#008789;
+	text-transform:uppercase;
+	font-size:48px;
+}
+
+#contemporary {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#68c3b7;
+	text-transform:uppercase;
+	font-size:52.5px;
+}
+
+#dedicated {
+	font-family:'TeXGyreAdventorBold';		
+	color:#006464;
+	text-transform:uppercase;
+	font-size:36.49px;
+	margin-right:7px;
+}
+
+#experienced {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#008789;
+	font-size:38.25px;
+}
+
+#passionate {
+	font-family:'TeXGyreAdventorRegular';		
+	color:#008789;
+	text-transform:uppercase;
+	font-size:75.49px;
+	line-height:.9em;
+}
+
+/* BREAK */
+
+.break {
+	clear:both;
+	margin:auto;
+	width:800px;
+}
+
+/* PORTFOLIO */
+
+#portfolio {
+	clear:both;
+	margin:auto;
+	width:800px;
+}
+
+/* CONTACT */
+
+#contact {
+	clear:both;
+	margin:auto;
+	width:800px;
+}
+
+/* EXPERIENCE */
+
+#experience {
+	clear:both;
+	margin:auto;
+	width:800px;
+}
+
+/* FOOTER */
+
+#footer-block {
+	background-image:url('../images/top_block.png');
+	background-repeat:repeat-x;
+	height:193px;
+}
+
+#footer-content {
+	clear:both;
+	margin:auto;
+	width:800px;
 }
