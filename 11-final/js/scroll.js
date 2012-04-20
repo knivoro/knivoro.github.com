@@ -10,12 +10,12 @@ $(document).ready(function() {
 
   $('a[href*=#]').each(function() {
     var thisPath = filterPath(this.pathname) || locationPath;
-  alert(thisPath);
     if (  locationPath == thisPath
     && (location.hostname == this.hostname || !this.hostname)
     && this.hash.replace(/#/,'') ) {
       var $target = $(this.hash), target = this.hash;
       if (target) {
+  alert(target);
         var targetOffset = $target.offset().top;
         $(this).click(function(event) {
           event.preventDefault();
