@@ -15,7 +15,6 @@ $(document).ready(function() {
     && this.hash.replace(/#/,'') ) {
       var $target = $(this.hash), target = this.hash;
       if (target) {
-  alert(target);
         var targetOffset = $target.offset().top;
         $(this).click(function(event) {
           event.preventDefault();
