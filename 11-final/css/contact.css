@@ -1,6 +1,5 @@
 
 
-
 /* FORM STYLE */
 
 input, label, textarea {
@@ -41,9 +40,7 @@ label {
 input:focus, textarea:focus {
 	background: #e7f5f4;
 	border: 1px solid #008789;
-	-moz-box-shadow: 3px 3px 3px 3px #68c3b7;
-    	-webkit-box-shadow: 3px 3px 3px 3px 2px #68c3b7;
-    	box-shadow: 3px 3px 3px 3px #68c3b7;
+    	box-shadow: 0 0 5px 5px red;
 }
 
 input[type="submit"] {
