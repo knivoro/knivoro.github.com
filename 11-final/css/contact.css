@@ -61,9 +61,6 @@ input {
 	width:400px;
 	height:40px;
 	vertical-align:middle;
-}
-
-input placeholder{
 	font-family:'TeXGyreAdventorRegular';
 }
 
@@ -79,18 +76,20 @@ label {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:16px;
 	color:#5f6971;
+	font-size:16px;
+	color:#5f6971;
 }
 
 textarea {
 	width:400px;
-	height:40px;
+	height:160px;
 	font-family:'TeXGyreAdventorRegular';
 	font-size:16px;
 	color:#5f6971;
 }
 
 input [type="submit"] {
-	background:url('../images/form/submitbutton.png') no-repeat center; 
+	background: url('../images/form/submitbutton.png') no-repeat center; 
 }
 
 
