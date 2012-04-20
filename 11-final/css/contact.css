@@ -58,6 +58,8 @@ input, label, textarea {
 
 input {
 	text-align:center;
+	width:200px;
+	height:20px;
 }
 
 input:focus {
@@ -81,7 +83,7 @@ textarea {
 }
 
 input [type="submit"] {
-	background-image:url('../images/form/submitbutton.png'); no-repeat;
+	background-image:url('../images/form/submitbutton.png'); 
 }
 
 
