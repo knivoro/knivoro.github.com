@@ -88,7 +88,7 @@ textarea {
 	color:#5f6971;
 }
 
-input [type="submit"] {
+input[type="submit"] {
 	background: url('../images/form/submitbutton.png') no-repeat center; 
 }
 
