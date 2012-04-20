@@ -80,6 +80,7 @@ label {
 }
 
 textarea {
+	margin:auto;
 	width:400px;
 	height:160px;
 	font-family:'TeXGyreAdventorRegular';
