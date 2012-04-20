@@ -10,7 +10,28 @@
   <link rel='stylesheet' href='css/slider.css' type='text/css' media='screen' />
   <link rel='stylesheet' href='css/contact.css' type='text/css' media='screen' />
   <script type='text/javascript' src='js/scroll.js'></script>
-  <script type='text/javascript' src='js/slider.js'></script>
+  
+  <link rel="stylesheet" href="js/slider/orbit-1.2.3.css">
+  <link rel="stylesheet" href="js/slider/demo/demo-style.css">
+  <script type="text/javascript" src="js/slider/jquery-1.5.1.min.js"></script>
+  <script type="text/javascript" src="js/slider/jquery.orbit-1.2.3.min.js"></script>	
+  
+  <!--[if IE]>
+			     <style type="text/css">
+			         .timer { display: none !important; }
+			         div.caption { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1; }
+			    </style>
+			<![endif]-->
+		
+		<!-- Run the plugin -->
+		<script type="text/javascript">
+			$(window).load(function() {
+				$('#slider').orbit(
+					bulletThumbs: true
+				);
+			});
+		</script>
+  
 </head>
 <body>
 	<div id='header-block'>
@@ -57,17 +78,18 @@
 	
 	<div id='portfolio'>
 		<h2 class='section-heading' id="portfolio-title">portfolio</h2>
-		<div id='thumbnails'>
-        	<img src='images/slider/thumbnail_mw.png' alt='merchantwarehouse'/>
+		<div id='slider'>
+        	<!--<img src='images/slider/thumbnail_mw.png' alt='merchantwarehouse'/>
 	       	<img src='images/slider/thumbnail_bbs.png' alt='bestbathstore'/>
        		<img src='images/slider/thumbnail_ids.png' alt='identities'/>
 			<img src='images/slider/thumbnail_web.png' alt='webdesign'/>
 			<img src='images/slider/thumbnail_print.png' alt='printdesign'/>
 			<img src='images/slider/thumbnail_photo.png' alt='photography'/>
-			<img src='images/slider/thumbnail_fineart.png' alt='fineart'/>
+			<img src='images/slider/thumbnail_fineart.png' alt='fineart'/>-->
+			<img src='images/slider/mw1.png' data-thumb="images/slider/thumbnail_mw.png"/>
+			<img src='images/slider/mw2.png'/>
+			<img src='images/slider/mw3.png'/>
       	</div>
-		<div id='slider'>
-		</div>
 	</div> <!-- end #portfolio -->
 	
 	<div class='break'>
