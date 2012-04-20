@@ -16,11 +16,11 @@
 	margin-left: -50px;
 	padding: 0;
 }
-#slider .orbit-bullets li.has-thumb {
+#portfolio .orbit-bullets li.has-thumb {
 	background: none;
 	width: 100px;
 	height: 100px;
 }
-#slider .orbit-bullets li.active.has-thumb {
+#portfolio .orbit-bullets li.active.has-thumb {
   border: none !important;
 }
