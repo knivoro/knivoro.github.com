@@ -57,6 +57,8 @@ input, label, textarea {
 }
 
 input {
+	background: #ffffff;
+	border: 1px solid #5f6971;
 	margin:auto;
 	width:400px;
 	height:40px;
@@ -65,10 +67,11 @@ input {
 }
 
 input:focus, textarea:focus {
+	background: #e7f5f4;
 	border: 1px solid #008789;
-	-moz-box-shadow: 3px 3px 4px #ccc;
-    	-webkit-box-shadow: 3px 3px 4px #ccc;
-    	box-shadow: 3px 3px 4px #ccc;
+	-moz-box-shadow: 2px #68c3b7;
+    	-webkit-box-shadow: 2px #68c3b7;
+    	box-shadow: 2px #68c3b7;
 }
 
 label {
@@ -81,6 +84,8 @@ label {
 }
 
 textarea {
+	background: #ffffff;
+	border: 1px solid #5f6971;
 	margin:auto;
 	width:400px;
 	height:160px;
