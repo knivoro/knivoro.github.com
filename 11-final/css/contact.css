@@ -67,7 +67,8 @@ input {
 input:focus {
 	outline-style:solid;
 	outline-width:1px;
-	outline-color:#5f6971;	
+	outline-color:#5f6971;
+	color:#ffffff;
 }
 
 label {
@@ -96,6 +97,7 @@ input[type="submit"] {
 	font-size:0;
 	line-height:0;
 	border:none;
+	cursor:pointer;
 }
 
 
