@@ -1,0 +1,6 @@
+.orbit-bullets li {
+	display: none;
+}
+.orbit-bullets li.has-thumb {
+  display: block
+}
