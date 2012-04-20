@@ -58,8 +58,13 @@ input, label, textarea {
 
 input {
 	text-align:center;
-	width:200px;
-	height:20px;
+	width:400px;
+	height:40px;
+	vertical-align:middle;
+}
+
+input placeholder{
+	font-family:'TeXGyreAdventorRegular';
 }
 
 input:focus {
