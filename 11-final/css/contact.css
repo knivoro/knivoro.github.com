@@ -83,7 +83,7 @@ textarea {
 }
 
 input [type="submit"] {
-	background:url('../images/form/submitbutton.png'); 
+	background:url('../images/form/submitbutton.png') no-repeat center; 
 }
 
 
