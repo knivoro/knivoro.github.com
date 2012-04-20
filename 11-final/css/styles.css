@@ -74,7 +74,7 @@ table {
 
 /* HEADER */
 
-body{
+body {
 	background-image:url('../images/background_tile.png');
 	background-repeat:repeat;
 	background-attachment:fixed;
@@ -182,7 +182,7 @@ body{
 	width:435px;
 	height:325px;
 	position:absolute;
-	right:0;
+	right:8px;
 	top:46px;
 }
 
@@ -275,6 +275,21 @@ body{
 	width:800px;
 }
 
+#contact-content {
+	text-align:center;
+}
+
+#contact-content p {
+	text-align:left;
+	margin-left:200px;
+}
+
+#form-fields p {
+	font-family:'TeXGyreAdventorRegular';
+	font-size:16px;
+	color:#5f6971;
+}
+
 /* EXPERIENCE */
 
 #experience {
@@ -283,16 +298,75 @@ body{
 	width:800px;
 }
 
+#experience-content {
+	float:left;
+}
+
+#experience-text1 {
+	font-family:'TeXGyreAdventorRegular';
+	font-size:24px;
+	color:#68c3b7;
+}
+
+#experience-text1 a {
+	text-decoration:none;
+	font-family:'TeXGyreAdventorBold';
+	font-size:24px;
+	color:#006464;	
+}
+
+#experience-text2 {
+	font-family:'TeXGyreAdventorRegular';
+	font-size:16px;
+	color:#5f6971;
+}
+
 /* FOOTER */
 
 #footer-block {
-	background-image:url('../images/top_block.png');
+	background-image:url('../images/bottom_block.png');
 	background-repeat:repeat-x;
-	height:193px;
+	height:100px;
 }
 
 #footer-content {
 	clear:both;
 	margin:auto;
 	width:800px;
+}
+
+#footer {
+	position:relative;
+}
+
+#footer p {
+	position:absolute;
+	left:0;
+	bottom:-63px;
+	text-decoration:none;
+	font-family:'TeXGyreAdventorRegular';
+	color:#68c3b7;
+	font-size:18px;
+}
+
+#footer-nav {
+	float:right;
+}
+
+#footer-nav ul {
+	position:absolute;
+	right:0;
+	bottom:-72px;
+}
+
+#footer-nav li {
+	float:left;
+	margin:7px;
+}
+
+#footer-nav a{
+	text-decoration:none;
+	font-family:'TeXGyreAdventorRegular';
+	color:#5f6971;
+	font-size:18px;
 }
