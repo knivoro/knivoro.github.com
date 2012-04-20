@@ -82,6 +82,8 @@ label {
 }
 
 textarea {
+	width:400px;
+	height:40px;
 	font-family:'TeXGyreAdventorRegular';
 	font-size:16px;
 	color:#5f6971;
