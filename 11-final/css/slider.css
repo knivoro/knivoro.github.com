@@ -7,3 +7,12 @@
 .orbit-bullets li.has-thumb {
   display: block;
 }
+.orbit-bullets {
+	position: absolute;
+	z-index: 1000;
+	list-style: none;
+	top: 0;
+	left: 50%;
+	margin-left: -50px;
+	padding: 0;
+}
