@@ -21,3 +21,6 @@
 	width: 100px;
 	height: 100px;
 }
+#slider .orbit-bullets li.active.has-thumb {
+  border: none !important;
+}
