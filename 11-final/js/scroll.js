@@ -9,6 +9,7 @@ $(document).ready(function() {
   var scrollElem = scrollableElement('html', 'body');
 
   $('a[href*=#]').each(function() {
+  alert('test');
     var thisPath = filterPath(this.pathname) || locationPath;
     if (  locationPath == thisPath
     && (location.hostname == this.hostname || !this.hostname)
