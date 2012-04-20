@@ -74,17 +74,26 @@
 	<div id='contact'>
 		<article id='contact-content'>
 			<h2 class='section-heading' id="contact-title">contact</h2>
-			<ul id='form-fields'>
-				<li><p>name</p></li>
-				<li><img src='images/form/field.png' alt='inputfield'/></li>
-				<li><p>email</p></li>
-				<li><img src='images/form/field.png' alt='inputfield'/></li>
-				<li><p>type of inquiry</p></li>
-				<li><img src='images/form/field.png' alt='inputfield'/></li>
-				<li><p>message</p></li>
-				<li><img src='images/form/message.png' alt='inputfield'/></li>
-				<li><img src='images/form/submitbutton.png' alt='submitbutton'/></li>
-			</ul>
+			<form id="contact" method="post" action="contact.php">
+				<fieldset>    
+					<label for="name">name</label>
+					<input type="text" name="contact[name]" placeholder="Full Name">
+
+					<label for="email">email</label>
+					<input type="email" name="contact[email]" placeholder="name@domain.com">
+					
+					<label for="inquiry">type of inquiry</label>
+					<input type="text" name="contact[name]" placeholder="inquiry type">
+
+					<label for="nessage">Message</label>
+					<textarea name="contact[message]" placeholder="enter message"></textarea>
+
+					<input type="submit" name="submit" id="submit" value="submit" />
+
+				</fieldset>
+			</form>
+			
+		
 		</article>	
 	</div> <!-- end #contact -->	
 	
