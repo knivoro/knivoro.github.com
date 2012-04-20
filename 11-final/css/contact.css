@@ -1,5 +1,4 @@
 
-
 /* FORM STYLE */
 
 input, label, textarea {
@@ -39,8 +38,8 @@ label {
 
 input:focus, textarea:focus {
 	background: #e7f5f4;
-	border: 1px solid #008789;
-    	box-shadow: 0 0 5px 5px red;
+	outline: 1px solid #008789;
+    	box-shadow: 3px 3px 3px 3px #68c3b7;
 }
 
 input[type="submit"] {
