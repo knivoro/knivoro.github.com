@@ -27,6 +27,7 @@
   border: none !important;
 }
 #portfolio div.slider-nav span {
+	top: 234px;
 	margin: 0;
 }
 #portfolio div#slider.orbit {

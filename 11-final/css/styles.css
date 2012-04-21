@@ -266,6 +266,7 @@ body {
 	margin:auto;
 	width:800px;
 	height: 604px;
+	overflow: hidden;
 }
 
 /* CONTACT */
