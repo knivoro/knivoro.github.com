@@ -7,7 +7,7 @@
 .orbit-bullets li.has-thumb {
   display: block;
 }
-.orbit-bullets {
+#slider .orbit-bullets {
 	position: absolute;
 	z-index: 1000;
 	list-style: none;
