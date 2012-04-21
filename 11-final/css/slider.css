@@ -38,7 +38,8 @@
 #portfolio .orbit-wrapper .orbit-caption {
 background: none;
 z-index: 1000;
-color: #5f6971;;
+color: #5f6971;
+font-family:'TeXGyreAdventorRegular';
 text-align: center;
 padding: 7px 0;
 font-size: 13px;
