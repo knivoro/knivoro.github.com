@@ -1,11 +1,13 @@
 #slider img {
 	margin-top: 100px;
 }
-.orbit-bullets li {
+#portfolio .orbit-bullets li {
 	display: none;
 }
-.orbit-bullets li.has-thumb {
+#portfolio .orbit-bullets li.has-thumb {
   display: block;
+	margin: 0;
+	margin-right: 15px;
 }
 #portfolio .orbit-bullets {
 	position: absolute;
@@ -15,7 +17,7 @@
 	height: 100px;
 	margin: 0;
 	top: 0;
-	left: 5px;
+	left: -4px;
 	padding: 0;
 }
 #portfolio .orbit-bullets li.has-thumb {
