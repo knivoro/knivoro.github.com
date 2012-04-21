@@ -35,3 +35,15 @@
 #portfolio div#slider.orbit {
 	overflow: visible;
 }
+#portfolio .orbit-wrapper .orbit-caption {
+background: none;
+z-index: 1000;
+color: #5f6971;;
+text-align: center;
+padding: 7px 0;
+font-size: 13px;
+position: absolute;
+right: 0;
+bottom: -165px;
+width: 100%;
+}
