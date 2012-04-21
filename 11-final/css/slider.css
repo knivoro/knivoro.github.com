@@ -11,8 +11,9 @@
 	position: absolute;
 	z-index: 1000;
 	list-style: none;
+	width: 800px;
 	top: 0;
-	left: 50%;
+	left: 0;
 	margin-left: -50px;
 	padding: 0;
 }
