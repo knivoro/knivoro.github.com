@@ -16,7 +16,7 @@
 	width: 820px;
 	height: 100px;
 	margin: 0;
-	top: 100px;
+	top: 40px;
 	left: -4px;
 	padding: 0;
 }
@@ -29,7 +29,7 @@
   border: none !important;
 }
 #portfolio div.slider-nav span {
-	top: 484px;
+	top: 364px;
 	margin: 0;
 }
 #portfolio div#slider.orbit {
