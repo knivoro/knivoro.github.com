@@ -12,6 +12,7 @@
 	z-index: 1000;
 	list-style: none;
 	width: 793px;
+	margin: 0;
 	top: 0;
 	left: 5px;
 	padding: 0;
@@ -23,4 +24,10 @@
 }
 #portfolio .orbit-bullets li.active.has-thumb {
   border: none !important;
+}
+#portfolio div.slider-nav span {
+	margin: 0;
+}
+#portfolio div#slider.orbit {
+	overflow: visible;
 }
