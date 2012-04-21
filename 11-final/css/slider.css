@@ -11,10 +11,9 @@
 	position: absolute;
 	z-index: 1000;
 	list-style: none;
-	width: 800px;
+	width: 793px;
 	top: 0;
-	left: 0;
-	margin-left: -50px;
+	left: 5px;
 	padding: 0;
 }
 #portfolio .orbit-bullets li.has-thumb {
