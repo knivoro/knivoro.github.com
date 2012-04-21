@@ -1,5 +1,5 @@
 #slider img {
-	margin-top: 100px;
+	margin-top: 300px;
 }
 #portfolio .orbit-bullets li {
 	display: none;
@@ -7,16 +7,16 @@
 #portfolio .orbit-bullets li.has-thumb {
   display: block;
 	margin: 0;
-	margin-right: 15px;
+	margin-right: 17px;
 }
 #portfolio .orbit-bullets {
 	position: absolute;
 	z-index: 1000;
 	list-style: none;
-	width: 793px;
+	width: 820px;
 	height: 100px;
 	margin: 0;
-	top: 0;
+	top: 100px;
 	left: -4px;
 	padding: 0;
 }
@@ -29,7 +29,7 @@
   border: none !important;
 }
 #portfolio div.slider-nav span {
-	top: 284px;
+	top: 484px;
 	margin: 0;
 }
 #portfolio div#slider.orbit {
