@@ -4,6 +4,10 @@ input, label, textarea {
   display:block
 }
 
+#contact {
+	margin-top:40px;
+}
+
 input {
 	background: #ffffff;
 	border: 1px solid #5f6971;
@@ -13,6 +17,8 @@ input {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:14px;
 	color:#5f6971;
+	margin-top:6px;
+	margin-bottom:10px;
 }
 
 textarea {
@@ -24,6 +30,8 @@ textarea {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:14px;
 	color:#5f6971;
+	margin-top:6px;
+	margin-bottom:20px;
 }
 
 label {
@@ -38,8 +46,8 @@ label {
 input:focus, textarea:focus {
 	background: #e7f5f4;
 	border: 1px solid #008789;
-    	box-shadow: 0 0 4px 2px #68c3b7;
-    	outline: none;
+   	box-shadow: 0 0 8px 1px #68c3b7;
+   	outline: none;
 }
 
 input[type="submit"] {

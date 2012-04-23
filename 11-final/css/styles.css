@@ -175,6 +175,8 @@ body {
 	float:left;
 	position:relative;
 	left:-20px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 
 #about-text {
@@ -184,6 +186,8 @@ body {
 	position:absolute;
 	right:8px;
 	top:46px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 
 #dynamic {
@@ -257,6 +261,8 @@ body {
 	clear:both;
 	margin:auto;
 	width:800px;
+	margin-top:40px;
+	margin-bottom:40px;
 }
 
 /* PORTFOLIO */
@@ -287,7 +293,7 @@ body {
 	clear:both;
 	margin:auto;
 	width:800px;
-	height:100px;
+	height:250px;
 }
 
 #experience-content {
@@ -298,6 +304,8 @@ body {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:24px;
 	color:#68c3b7;
+	margin-top:40px;
+	margin-bottom:20px;
 }
 
 #experience-text1 a {
@@ -311,6 +319,11 @@ body {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:16px;
 	color:#5f6971;
+	line-height:20px;
+}
+
+#experience-text2 em {
+	color:#68c3b7;
 }
 
 /* FOOTER */
