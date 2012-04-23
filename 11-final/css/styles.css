@@ -84,6 +84,7 @@ body {
 	background-image:url('../images/top_block.png');
 	background-repeat:repeat-x;
 	height:193px;
+	margin-bottom:40px;
 }
 
 #header-content {
@@ -154,6 +155,10 @@ body {
 	font-family:'TeXGyreAdventorRegular';
 	color:#5f6971;
 	font-size:18px;
+}
+
+#main-nav a:hover {
+	color:#68c3b7;
 }
 
 /* ABOUT */
@@ -374,4 +379,8 @@ body {
 	font-family:'TeXGyreAdventorRegular';
 	color:#5f6971;
 	font-size:18px;
+}
+
+#footer-nav a:hover {
+	color:#68c3b7;
 }
