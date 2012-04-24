@@ -1,14 +1,17 @@
 #slider img {
 	margin-top: 180px;
 }
+
 #portfolio .orbit-bullets li {
 	display: none;
 }
+
 #portfolio .orbit-bullets li.has-thumb {
   display: block;
 	margin: 0;
 	margin-right: 17px;
 }
+
 #portfolio .orbit-bullets {
 	position: absolute;
 	z-index: 1000;
@@ -20,21 +23,26 @@
 	left: -4px;
 	padding: 0;
 }
+
 #portfolio .orbit-bullets li.has-thumb {
 	background: none;
 	width: 100px;
 	height: 100px;
 }
+
 #portfolio .orbit-bullets li.active.has-thumb {
   border: none !important;
 }
+
 #portfolio div.slider-nav span {
 	top: 364px;
 	margin: 0;
 }
+
 #portfolio div#slider.orbit {
 	overflow: visible;
 }
+
 #portfolio .orbit-wrapper .orbit-caption {
 background: none;
 z-index: 1000;

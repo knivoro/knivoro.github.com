@@ -52,14 +52,19 @@ input:focus, textarea:focus {
 }
 
 input[type="submit"] {
-	background: url('../images/form/submitbutton.png') no-repeat center; 
-	width:152px;
-	height:45px;
+	display:block;
+	background: url('../images/submitbutton.png'); 
+	width:150px;
+	height:40px;
 	text-indent:-9999px;
 	font-size:0;
 	line-height:0;
 	border:none;
 	cursor:pointer;
+}
+
+input[type="submit"]:hover {
+	background-position:0 42px;
 }
 
 

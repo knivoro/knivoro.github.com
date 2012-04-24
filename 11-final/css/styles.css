@@ -131,13 +131,59 @@ body {
 	top:20px;
 }
 
+#behance {
+	display: block;
+	width: 35px;
+	height: 35px;
+	background: url('../images/social_behance.png');
+	text-indent: -99999px;
+}
+#behance:hover {
+	background-position: 0 35px;
+}
+
+#linkedin {
+	display: block;
+	width: 35px;
+	height: 35px;
+	background: url('../images/social_linkedin.png');
+	text-indent: -99999px;
+}
+#linkedin:hover {
+	background-position: 0 35px;
+}
+
+#pinterest {
+	display: block;
+	width: 35px;
+	height: 35px;
+	background: url('../images/social_pinterest.png');
+	text-indent: -99999px;
+}
+#pinterest:hover {
+	background-position: 0 35px;
+}
+
+#facebook {
+	display: block;
+	width: 35px;
+	height: 35px;
+	background: url('../images/social_facebook.png');
+	text-indent: -99999px;
+}
+#facebook:hover {
+	background-position: 0 35px;
+}
+
 #social-media a {
+	float:left;
 	margin:7px;
 }
 
 #main-nav {
 	position:relative;
 	top:100px;
+	right:0px;
 }
 
 #main-nav ul {
