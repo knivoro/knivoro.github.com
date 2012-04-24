@@ -366,6 +366,10 @@ body {
 	color:#006464;	
 }
 
+#experience-text1 a:hover {
+	color:#008789;
+}
+
 #experience-text2 {
 	font-family:'TeXGyreAdventorRegular';
 	font-size:16px;
